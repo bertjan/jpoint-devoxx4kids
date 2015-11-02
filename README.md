@@ -1,2 +1,2 @@
 # jpoint-devoxx4kids
-TODO
+Repository for Devoxx4Kids sessions hosted by JPoint.
